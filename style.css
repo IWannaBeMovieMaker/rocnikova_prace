@@ -1,0 +1,61 @@
+.zedchamp {
+  margin: 0;
+  padding: 0;
+  background-image: url(zed/zedskins/chmpzed.jpg);
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: fixed;
+}
+.zedprc {
+  margin: 0;
+  padding: 0;
+  background-image: url(zed/zedskins/projectzed.jpg);
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: fixed;
+}
+.deathzed {
+  margin: 0;
+  padding: 0;
+  background-image: url(zed/zedskins/zeddeath.jpg);
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: fixed;
+}
+.zedgal {
+  margin: 0;
+  padding: 0;
+  background-image: url(zed/zedskins/zedgal.jpg);
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: fixed;
+}
+.zedskt1 {
+  margin: 0;
+  padding: 0;
+  background-image: url(zed/zedskins/zedskt.jpg);
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: fixed;
+}
+.zedshock {
+  margin: 0;
+  padding: 0;
+  background-image: url(zed/zedskins/shockzed.jpg);
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: fixed;
+}
+.zed{ 
+position: absolute;
+top: 150px;
+left: 75px;
+max-width: 200px;
+height: 400;
+}

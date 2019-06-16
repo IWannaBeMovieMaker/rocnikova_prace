@@ -1,0 +1,18 @@
+.zedbc {
+  margin: 0;
+  padding: 0;
+  background-image: url(zed/zedskins/zed.jpg);
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: fixed;
+}
+.zed{ 
+position: fixed;
+bottom: 0;
+right: 0;
+top: 350px;
+left: 50px;
+max-width: 200px;
+height: 300px;
+}

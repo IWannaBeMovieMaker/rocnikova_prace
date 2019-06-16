@@ -1,0 +1,326 @@
+body{
+    background-image:url(pozadi.png)!important; 
+    background-size: 3820px 2000px;
+    background-repeat: no-repeat;
+    background-position-y: 20px;
+    position: relative;
+}
+.abilites{
+    position: absolute;
+    top: 300px;
+    left: 200px;
+    
+}
+.abilites2{
+    position: absolute;
+    top: 600px;
+    left: 200px;
+    max-width: 15%;
+    height: 15%;
+}
+.abilites3a{
+    position: absolute;
+    top: 900px;
+    left: 170px;
+    max-width: 15%;
+    height: 15%;
+}
+.abilites3b{
+    position: absolute;
+    top: 930px;
+    left: 200px;
+    max-width: 15%;
+    height: 15%;
+}
+.abilites4{
+    position: absolute;
+    top: 1300px;
+    left: 200px;
+    max-width: 15%;
+    height: 15%;
+}
+.abilites5a{
+    position: absolute;
+    top: 1630px;
+    left: 170px;
+    max-width: 15%;
+    height: 15%;
+}
+.abilites5b{
+    position: absolute;
+    top: 1660px;
+    left: 200px;
+    max-width: 15%;
+    height: 15%;
+}
+.range{
+    margin: auto;
+    font-family: serif;
+    color: blueviolet;
+    font-size: 25px;
+    position: absolute;
+    top: 650px;
+    left: 310px;
+}
+.range2{
+    margin: auto;
+    font-family: serif;
+    color: blueviolet;
+    font-size: 25px;
+    position: absolute;
+    top: 950px;
+    left: 310px;
+}
+.range3{
+    margin: auto;
+    font-family: serif;
+    color: blueviolet;
+    font-size: 25px;
+    position: absolute;
+    top: 950px;
+    left: 310px;
+}
+.range4{
+    margin: auto;
+    font-family: serif;
+    color: blueviolet;
+    font-size: 25px;
+    position: absolute;
+    top: 1350px;
+    left: 310px;
+}
+.range5{
+    margin: auto;
+    font-family: serif;
+    color: blueviolet;
+    font-size: 25px;
+    position: absolute;
+    top: 1700px;
+    left: 310px;
+}
+.nadpis1{
+    text-decoration-style: solid;
+    text-decoration-color: black;
+    font-size: 35px;
+    font-family: serif;
+    color:blueviolet;
+    position: absolute;
+    top: 250px;
+    left: 100px;
+}
+.nadpis2{
+    text-decoration-style: solid;
+    text-decoration-color: black;
+    font-size: 35px;
+    font-family: serif;
+    color:blueviolet;
+    position: absolute;
+    top: 550px;
+    left: 150px;
+}
+.nadpis3{
+    text-decoration-style: solid;
+    text-decoration-color: black;
+    font-size: 35px;
+    font-family: serif;
+    color:blueviolet;
+    position: absolute;
+    top: 850px;
+    left: 150px;
+}
+.nadpis4{
+    text-decoration-style: solid;
+    text-decoration-color: black;
+    font-size: 35px;
+    font-family: serif;
+    color:blueviolet;
+    position: absolute;
+    top: 1240px;
+    left: 150px;
+}
+.nadpis5{
+    text-decoration-style: solid;
+    text-decoration-color: black;
+    font-size: 35px;
+    font-family: serif;
+    color:blueviolet;
+    position: absolute;
+    top: 1570px;
+    left: 150px;
+}
+h3{
+    margin: auto;
+    font-family: serif;
+    color: blueviolet;
+    font-size: 25px;
+    position: absolute;
+    top: 320px;
+    left: 310px;
+}
+h4{
+    margin: auto;
+    font-family: serif;
+    color: blueviolet;
+    font-size: 25px;
+    position: absolute;
+    top: 360px;
+    left: 310px;
+}
+h5{
+    margin: auto;
+    font-family: serif;
+    color: blueviolet;
+    font-size: 25px;
+    position: absolute;
+    top: 985px;
+    left: 310px;
+}
+.cost{
+    margin: auto;
+    font-family: serif;
+    color: blueviolet;
+    font-size: 25px;
+    position: absolute;
+    top: 610px;
+    left: 310px;
+
+}
+.cost2{
+    margin: auto;
+    font-family: serif;
+    color: blueviolet;
+    font-size: 25px;
+    position: absolute;
+    top: 910px;
+    left: 310px;
+}
+.cost3{
+    margin: auto;
+    font-family: serif;
+    color: blueviolet;
+    font-size: 25px;
+    position: absolute;
+    top: 915px;
+    left: 310px;
+}
+.cost4{
+    margin: auto;
+    font-family: serif;
+    color: blueviolet;
+    font-size: 25px;
+    position: absolute;
+    top: 1315px;
+    left: 310px;
+}
+.cost5{
+    margin: auto;
+    font-family: serif;
+    color: blueviolet;
+    font-size: 25px;
+    position: absolute;
+    top: 1665px;
+    left: 310px;
+}
+.passivka {
+    margin: auto;
+    font-family: serif;
+    color: white;
+    font-size: 15px;
+    position: absolute;
+    top: 430px;
+    left: 200px;
+}
+.popis{
+    margin: auto;
+    font-family: serif;
+    color: white;
+    font-size: 15px;
+    position: absolute;
+    top: 720px;
+    left: 200px;
+}
+.popis2{
+    margin: auto;
+    font-family: serif;
+    color: white;
+    font-size: 15px;
+    position: absolute;
+    top: 1040px;
+    left: 200px;
+}
+.popis3{
+    margin: auto;
+    font-family: serif;
+    color: white;
+    font-size: 15px;
+    position: absolute;
+    top: 1040px;
+    left: 200px;
+}
+.popis4{
+    margin: auto;
+    font-family: serif;
+    color: white;
+    font-size: 15px;
+    position: absolute;
+    top: 1420px;
+    left: 200px;
+}
+.popis5{
+    margin: auto;
+    font-family: serif;
+    color: white;
+    font-size: 15px;
+    position: absolute;
+    top: 1790px;
+    left: 200px;
+}
+.green{
+    color: green;
+    font-size: 20px;
+    font-family: serif;
+}
+.yellow{
+    color: yellow;
+    font-size: 20px;
+    font-family: serif;
+}
+.video1{
+    position: absolute;
+    left: 800px;
+    top: -220px;
+    margin: 0;
+}
+.video2{
+    position: absolute;
+    left: 800px;
+    top: -170px;
+}
+.video3{
+    position: absolute;
+    left: 800px;
+    top: -150px;
+}
+.video4{
+    position: absolute;
+    left: 800px;
+    top: -180px;
+}
+.video5{
+    position: absolute;
+    left: 800px;
+    top: -200px;
+}
+footer{
+    position: absolute;
+    top: 2000px;
+    width: 1920px;
+}
+.zapati{
+    margin-right: 200px;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    font-family: fantasy;
+}
+
